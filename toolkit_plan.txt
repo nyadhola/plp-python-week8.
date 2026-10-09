@@ -1,0 +1,42 @@
+PERSONAL MINI-TOOLKIT — PROJECT PLAN
+
+1. SIMPLE CALCULATOR
+
+The calculator asks the user for two numbers and an operation, then displays the answer.
+
+Concepts used: variables, input, type conversion, conditionals, arithmetic operators, and f-strings.
+
+2. TO-DO LIST
+
+The to-do list allows the user to add tasks, view all tasks, and remove tasks while the program is running.
+
+Concepts used: lists, list methods, loops, conditionals, input, and f-strings.
+
+3. NUMBER CHECKER
+
+The number checker asks the user for a number and reports whether it is even or odd and whether it is positive, negative, or zero.
+
+Concepts used: variables, input, type conversion, the modulo operator, conditionals, and f-strings.
+
+EXACT MAIN MENU
+
+===== PERSONAL MINI-TOOLKIT =====
+
+1. Simple Calculator
+2. To-Do List
+3. Number Checker
+4. Quit
+
+Enter your choice (1-4):
+
+The menu will repeat until the user selects option 4. Invalid choices will receive a friendly error message.
+
+PROJECT CONCEPTS
+
+Variables store values.
+Input and output communicate with the user.
+Conditionals select actions.
+Loops repeat the menu and allow repeated task management.
+Lists store tasks that change during the program.
+F-strings make messages easy to read.
+Comments explain the purpose of each tool.
